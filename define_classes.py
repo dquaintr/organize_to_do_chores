@@ -35,6 +35,14 @@ class Tabel:
     """takes different end points and adds them to duration"""
 
 
+class Action:
+
+    def __init__(self,name,duration):
+        self.name = name
+        self.duration = duration
+
+
+
 
 erstes_spülen = Task(30,"fahren")
 zweites_spülen = Task(erstes_spülen.end_time,"staubsaugen")
