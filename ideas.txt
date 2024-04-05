@@ -1,0 +1,23 @@
+make objects
+
+each task as object
+
+task class:
+    time beginning
+    duration
+    ending
+
+machen, dass tasks wie kette aneinander gereiht werden können
+formel zu zeiten machen
+
+probleme:
+    dictionary öffnen, dann neue sachen hinzufügen
+    dinge aneinander heften
+
+
+später: machen, dass user neue sachen in dictionary hinzufügen kann
+
+put input in list, then a for loop
+
+use different class excel    in excel add um times
+
